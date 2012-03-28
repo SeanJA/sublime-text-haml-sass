@@ -13,7 +13,7 @@ INSTALLATION:
 
 1. Go to menu bar: "Sublime Text 2 > Preferences > Browse Packages..."
    - Alternate method, on OS X, in Terminal:
-   - $ cd ~/Library/Application Support/Sublime Text 2/Packages
+   - $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
 
 2. Once that folder is open, close Sublime Text 2.
 
