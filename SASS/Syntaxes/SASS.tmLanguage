@@ -119,6 +119,14 @@
 			<string>variable.parameter.url</string>
 		</dict>
 		<dict>
+			<key>begin</key>
+			<string>(filter)</string>
+			<key>end</key>
+			<string>(\)|\w)(?=(;|\n))</string>
+ 			<key>name</key>
+ 			<string>variable.parameter.url</string>
+ 		</dict>
+		<dict>
 			<key>match</key>
 			<string>&amp;</string>
 			<key>name</key>
