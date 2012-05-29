@@ -156,6 +156,12 @@
 			<key>name</key>
 			<string>support.constant.font-name.sass</string>
 		</dict>
+		<dict>
+			<key>match</key>
+			<string>\-(webkit-font-smoothing|webkit-filter|webkit-tap-highlight-color|ms-interpolation-mode)\b</string>
+			<key>name</key>
+			<string>support.type.property-name.sass</string>
+	   	</dict>
 	</array>
 	<key>scopeName</key>
 	<string>source.sass</string>
