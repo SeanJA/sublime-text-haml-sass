@@ -134,7 +134,7 @@
 		</dict>
 		<dict>
 			<key>match</key>
-			<string>:(before|after|first-child|last-child|first-line|first-letter|link|focus|lang|hover|active|visited)</string>
+			<string>:(before|after|first-child|last-child|first-line|first-letter|link|focus|lang|hover|active|visited|invalid|valid)</string>
 			<key>name</key>
 			<string>entity.other.attribute-name.tag.pseudo-class</string>
 		</dict>
