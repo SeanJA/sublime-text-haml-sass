@@ -120,7 +120,7 @@
 		</dict>
 		<dict>
 			<key>begin</key>
-			<string>(filter)</string>
+			<string>((-webkit-)?filter)</string>
 			<key>end</key>
 			<string>(\)|\w)(?=(;|\n))</string>
  			<key>name</key>
